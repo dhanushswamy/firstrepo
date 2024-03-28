@@ -7,6 +7,8 @@ public class Prog1 {
 	public static void main(String[] args) {
 		String str="suzysimbapluto";
 		HashMap<Character,Integer> hmap=new HashMap<Character,Integer>();
+
+		
 		int lengthofstring=str.length();
 		for(int i=0;i<lengthofstring;i++)
 		{
